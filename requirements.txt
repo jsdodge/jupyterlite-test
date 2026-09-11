@@ -6,6 +6,9 @@ notebook~=7.6.0
 # PDF Export
 jupyterlite-pdf-exporter
 
+# HTML Export
+jupyterlite_html_exporter
+
 # Python kernel (optional)
 jupyterlite-pyodide-kernel==0.8.0
 

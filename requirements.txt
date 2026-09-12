@@ -3,8 +3,8 @@ jupyterlite-core==0.8.0
 jupyterlab~=4.6.0
 notebook~=7.6.0
 
-# PDF Export
-jupyterlite-pdf-exporter
+# PDF Export (unused)
+# jupyterlite-pdf-exporter
 
 # HTML Export
 jupyterlite_html_exporter
